@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hijack测试</string>
+    <string name="hello_world">UI_HiJack_Test</string>
+    <string name="info">覆盖在APP界面内容之上@v2.0</string>
+    
+    <string name="username">帐号</string> 
+    <string name="password">密码</string> 
+    <string name="Button">登录</string> 
+    <string name="Button1">取消</string> 
+    
+    <string name="warn">警告:环境错误,请输入帐号密码进行安全验证！</string> 
+    
+    <string name="action_settings">Settings</string>
+    
+    
+    <!--颜色8位说明https://blog.csdn.net/BINGDUCAIJUN/article/details/50379688 -->
+    <color name="transparent">#acC0C0C0</color>
+    
+</resources>
