@@ -1,0 +1,2 @@
+drozer:
+run app.activity.start --component com.test.uihijack com.test.uihijack.MainActivity
